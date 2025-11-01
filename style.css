@@ -17,7 +17,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(images/horizontal.jpg);
+    background-image: url(images/new horizontal-1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -452,3 +452,4 @@ form .btn2 {
         margin: 30px auto;
     }
 }
+
